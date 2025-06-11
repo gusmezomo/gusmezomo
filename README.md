@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mezomo</h1>
-<h3 align="center">A Cience Computer Student</h3>
+<h3 align="center">A Computer Science Student</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gusmezomo&label=Profile%20views&color=0e75b6&style=flat" alt="gusmezomo" /> </p>
+- 🔭 I’m currently working on lawyer website [Hamann Baptista Advocacia](https://hamanntest.netlify.app/)
 
-- 🔭 I’m currently working on lawyer web site [Hamann Baptista Advocacia](https://hamanntest.netlify.app/)
+- 🌱 I’m currently learning **C++**
+
+- 👨‍💻 All of my projects are available at [https://gusweb.netlify.app/](https://gusweb.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
