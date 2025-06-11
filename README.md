@@ -3,10 +3,10 @@
 
 - 🔭 I’m currently working on lawyer website [Hamann Baptista Advocacia](https://hamanntest.netlify.app/)
 
+- 👨‍💻 All of my projects are available at my [Portifolio Website](https://gusweb.netlify.app/)
+
 - 🌱 I’m currently learning **C++**
-
-- 👨‍💻 All of my projects are available at [https://gusweb.netlify.app/](https://gusweb.netlify.app/)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gusmezomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gusmezomo" height="30" width="40" /></a>
