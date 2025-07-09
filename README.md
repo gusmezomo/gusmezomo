@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a lawyer website [Hamann Baptista Advocacia](https://hamannbaptista.com/)
 
-- 👨‍💻 All of my projects are available at my [Portifolio Website](https://gusweb.netlify.app/)
+- 👨‍💻 All of my projects are available at my [Portfolio Website](https://gusmezomo.com.br/)
 
 - 🌱 I’m currently learning **C++**
   
