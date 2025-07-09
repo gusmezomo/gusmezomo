@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gustavo Mezomo</h1>
 <h3 align="center">A Computer Science Student</h3>
 
-- 🔭 I’m currently working on a lawyer website [Hamann Baptista Advocacia](https://hamanntest.netlify.app/)
+- 🔭 I’m currently working on a lawyer website [Hamann Baptista Advocacia](https://hamannbaptista.com/)
 
 - 👨‍💻 All of my projects are available at my [Portifolio Website](https://gusweb.netlify.app/)
 
