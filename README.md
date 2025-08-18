@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my [Portfolio Website](https://gusmezomo.com.br/)
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **React and Vue**
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
